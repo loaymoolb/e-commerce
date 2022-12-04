@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "ecommerce"
+    "name": ""
   },
   "api": {
-    "projectId": "u1w2sh6u",
+    "projectId": "",
     "dataset": "production"
   },
   "plugins": [

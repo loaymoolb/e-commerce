@@ -4,6 +4,9 @@
 This is a Full Stack Personal Online Store Application using Stripe and Sanity
 
 ## 🔗 Link: [olyamaiishop](https://olyamaiishop.vercel.app)
+
+## ![image](https://i.ibb.co/j3t33qQ/a2927882-22e7-434f-bc5a-83c97ad7131c.png)
+
 ## 🛠 Used tools:
 * **React** folder and file structure, hooks and refs
 * State Management of the entire application using **React Context API**

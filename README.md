@@ -1,7 +1,7 @@
 
 # Olyamaii Shop
 
-Modern animations and design elements, product editing, sophisticated checkout and cart features, and, most significantly, a full integration with Stripe that enables to accept actual payments are all included in this Full Stack e-commerce application created with React and NextJS
+Modern animations and design elements, product editing, sophisticated checkout and cart features, and, most significantly, a full integration with Stripe that enables to accept actual payments are all included in this **Full Stack** e-commerce application created with React and NextJS
 
 ## 🔗 Link: [olyamaiishop](https://olyamaiishop.vercel.app)
 
